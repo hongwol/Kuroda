@@ -8,7 +8,7 @@ export function CVSection() {
         <section>
           <h3 className="mb-6 pb-2 border-b border-gray-200">Exhibition</h3>
           <div className="grid grid-cols-[120px_1fr] gap-4">
-            <p className="opacity-50">2025</p>
+            <p className="opacity-50">2026</p>
             <div>
               <p className="mb-1">
                 쿠로다 {' '}
