@@ -24,7 +24,6 @@ export function CVSection() {
               <p className="opacity-50">PCO 서울</p>
             </div>
           </div>
-          <h3 className="mb-6 pb-2 border-b border-gray-200">Exhibition</h3>
           <div className="grid grid-cols-[120px_1fr] gap-4">
             <p className="opacity-50">2025</p>
             <div>
